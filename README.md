@@ -21,3 +21,4 @@
 > For example they don't ask to create the last semester gradebook like i did, instead they ask to display it like this: [['Class type', rating], ['Class type', rating], ... ]
 > They didn't ask to comment the project, but i decided to, for me to deepen my understanding by reflecting more on what i just did ... without doing that, i wouldn't have been able to understand every step so clearly.
 > They didn't ask to display the different lists with such formatting. Linear basic formatting was asked.
+> The insert method hasn't been studied at this point.
