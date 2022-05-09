@@ -1,4 +1,4 @@
-# last semester gradebook::
+# last semester gradebook declaration:
 last_semester_gradebook = [["politics", "latin", "dance", "architecture"], [80, 96, 97, 65]]
 print("\n" + "Last semester gradebook: " + "\n" + str(last_semester_gradebook) + "\n")
 
