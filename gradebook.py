@@ -1,6 +1,6 @@
-# last semester gradebook declaration:
+# last semester gradebook::
 last_semester_gradebook = [["politics", "latin", "dance", "architecture"], [80, 96, 97, 65]]
-print("\nLast semester gradebook: " + "\n" + str(last_semester_gradebook) + "\n")
+print("\nLast semester gradebook: \n" + str(last_semester_gradebook) + "\n")
 
 # beginning of new gradebook creation:
 # choosing subjects::
